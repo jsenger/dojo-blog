@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Hey Gorge",
+      "body": "lore ipsum...",
+      "author": "Gottmik",
+      "id": 1
+    },
+    {
+      "title": "Backwards shoe",
+      "body": "lore ipsum...",
+      "author": "Rosé",
+      "id": 2
+    },
+    {
+      "title": "Icy spicy for u im too pricey",
+      "body": "lore ipsum...",
+      "author": "Denali",
+      "id": 3
+    }
+  ]
+}
